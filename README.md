@@ -72,7 +72,7 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 
 ## 📡 Kontakt & Präsenz
 
-* YouTube: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische)
+* YouTube: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische.offical)
 * LinkedIn: [linkedin.com/in/marcel-r-g-berger](https://linkedin.com/in/marcel-r-g-berger)
 * Shop & Marke: [novinophobia.store](https://novinophobia.store)
 

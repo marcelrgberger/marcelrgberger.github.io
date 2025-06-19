@@ -139,3 +139,5 @@ Gustav-Stresemann-Ring 1
 Wir behalten uns vor, diese Datenschutzerklärung jederzeit anzupassen, um sie an geänderte rechtliche Rahmenbedingungen oder technische Entwicklungen anzupassen.
 
 Letzte Aktualisierung: Juni 2025
+
+[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)

@@ -55,3 +55,6 @@ Soweit Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die 
 • [LinkedIn – Marcel Berger](https://www.linkedin.com/in/marcelrgberger)  
 • [GitHub – Marcel Berger](https://github.com/marcelrgberger)  
 • [novinophobia.store](https://www.novinophobia.store)  
+
+
+[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)

@@ -74,7 +74,7 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 ## 📡 Kontakt & Präsenz
 
 - 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische)
-- 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcelrgberger)
+- 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
 - 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
 - 🛍️ Shop & Marke: [novinophobia.store](https://www.novinophobia.store)
 - 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)

@@ -82,3 +82,6 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 > *"The only way to do great work is to love what you do." – Steve Jobs*
 
 Danke für deinen Besuch. Wenn du nach echter Substanz in der IT-Welt suchst – hast du sie gerade gefunden. Ehrlich. Direkt. Nordisch gut.
+
+
+[Impressum](/impressum/)

@@ -1,4 +1,4 @@
-# 👋 Moin, ich bin Marcel Berger
+# 👋 Moin, ich bin Marcel
 
 💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz
 *Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*

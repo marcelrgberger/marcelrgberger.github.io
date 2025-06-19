@@ -57,14 +57,15 @@ Aktuell leite ich die Digitalisierung in einem Unternehmen der kritischen Infras
 
 ---
 
-## 🌟 Nebenprojekte & Marken
+### 🌟 Nebenprojekte & Marken
+Gemeinsam mit meiner Frau führe ich die **Berger & Rosenstock GbR** – unser kreatives Zuhause für Software, Medien und Markenentwicklung:
 
-Gemeinsam mit meiner Frau führe ich die Berger & Rosenstock GbR – unser kreatives Zuhause für Software, Medien und Markenentwicklung:
-
-* 📱 App-Entwicklung: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends
-* 🧾 Prozessautomatisierung: Digitale Workflows für Selbstständige & KMU
-* 🛍️ E-Commerce & Marke: [novinophobia.store](https://novinophobia.store) – Print-on-Demand für Weingenießer
-* 🎥 Content & Bildung: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische) – YouTube für ehrliches IT-Verständnis mit echtem Tiefgang
+📱 **App-Entwicklung**: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends  
+🧾 **Prozessautomatisierung**: Digitale Workflows für Selbstständige & KMU  
+🛍️ **E-Commerce & Marke**: [novinophobia.store](https://www.novinophobia.store) – Print-on-Demand für Wein- & Genussmenschen  
+🎥 **Business & IT-Content**: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische) – YouTube für ehrliches Business-Wissen, Digitalisierung & IT mit Tiefgang  
+💄 **Beauty & Lifestyle**: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty) – Jasmins Instagram-Kanal für Kosmetik, Styling & Selbstfürsorge  
+📸 **Persönlicher Kanal**: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official) – Einblicke in Projekte, Alltag und Unternehmertum
 
 Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in Buzzwords, sondern in Architekturen. Nicht in Features, sondern in Ergebnissen.
 
@@ -72,11 +73,12 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 
 ## 📡 Kontakt & Präsenz
 
-* YouTube: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische.offical)
-* LinkedIn: [Zum Profil von Marcel Berger](https://linkedin.com/in/marcel-r-g-berger)
-* Shop & Marke: [novinophobia.store](https://novinophobia.store)
-* Github: [Github von Marcel Berger](https://github.com/marcelrgberger)
-
+- 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische)
+- 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcelrgberger)
+- 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
+- 🛍️ Shop & Marke: [novinophobia.store](https://www.novinophobia.store)
+- 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
+- 💄 Instagram (Beauty-Kanal von Jasmin): [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
 ---
 
 > *"The only way to do great work is to love what you do." – Steve Jobs*

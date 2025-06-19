@@ -79,6 +79,7 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 - 🛍️ Shop & Marke: [novinophobia.store](https://www.novinophobia.store)
 - 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
 - 💄 Instagram (Beauty-Kanal von Jasmin): [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
+
 ---
 
 > *"The only way to do great work is to love what you do." – Steve Jobs*

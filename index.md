@@ -84,4 +84,4 @@ Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in
 Danke für deinen Besuch. Wenn du nach echter Substanz in der IT-Welt suchst – hast du sie gerade gefunden. Ehrlich. Direkt. Nordisch gut.
 
 
-[Impressum](/impressum/)
+[Impressum](/impressum/) [Datenschutz](/datenschutz/)

@@ -140,4 +140,4 @@ Wir behalten uns vor, diese Datenschutzerklärung jederzeit anzupassen, um sie a
 
 Letzte Aktualisierung: Juni 2025
 
-[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)
+[Startseite](/)&nbsp;&nbsp;&nbsp;&nbsp;[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)

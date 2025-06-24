@@ -57,4 +57,4 @@ Soweit Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die 
 • [novinophobia.store](https://www.novinophobia.store)  
 
 
-[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)
+[Startseite](/)&nbsp;&nbsp;&nbsp;&nbsp;[Impressum](/impressum/)&nbsp;&nbsp;&nbsp;&nbsp;[Datenschutz](/datenschutz/)

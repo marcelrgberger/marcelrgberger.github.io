@@ -26,41 +26,45 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-##  Mein Profil in Schlagworten
+## 🔎 Mein Profil in Schlagworten
 
-* 🚀 30+ Jahre Programmiererfahrung, davon 10+ Jahre in Führungs- und Architekturverantwortung
-* ☁️ Spezialisiert auf Cloud-native Backends mit Java, Quarkus und Spring Boot
-* 📱 Entwicklung produktionsreifer Apps mit Flutter, kombiniert mit leistungsstarken APIs
-* 🔐 Sicherheit, Identity & Governance: Keycloak, SailPoint, OAuth2, SAML, Entra ID
-* ⚙️ CI/CD, Containerisierung & DevOps mit GitHub Actions, Docker, Kubernetes, Argo CD
-* 🧠 Visionär für digitale Transformation & Automatisierung in mittelständischen Unternehmen
-* 📍 Aktuell: Leiter Digitalisierung & Projektkoordination in einem KRITIS-Unternehmen
-* 🎯 Nebenberuflich: Content Creator, App-Innovator, Unternehmer mit Fokus auf nachhaltige IT
+* 🚀 Über 30 Jahre Programmiererfahrung – davon mehr als ein Jahrzehnt in Architektur & Führung
+* ☁️ Cloud-native Backend-Expertise mit **Java**, **Quarkus** und **Spring Boot**
+* 📱 Entwicklung marktreifer **Flutter-Apps**, nahtlos integriert mit leistungsfähigen APIs
+* 🔐 Spezialist für **Security & Identity Management**: **Keycloak**, **OAuth2**, **SAML**, **SailPoint**, **Entra ID**
+* ⚙️ Automatisierung durch **CI/CD-Pipelines**, **Containerisierung** und **Kubernetes** – mit **GitHub Actions** & **Argo CD**
+* 🧠 Strategischer Treiber für **digitale Transformation** und **Prozessautomatisierung** im Mittelstand
+* 🏢 Aktuell: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**
+* 🎯 Nebenberuflich: **Content Creator**, **App-Entwickler** und Unternehmer mit Fokus auf nachhaltige IT-Lösungen
 
 ---
 
 ##  Technologien & Werkzeuge – mein tägliches Handwerkszeug
 
-| Bereich               | Technologien / Tools                                     |
-| --------------------- | -------------------------------------------------------- |
-| Sprachen              | Java • Dart • Shell (Bash) • Python                      |
-| Backend               | Quarkus • Spring Boot • REST • GraphQL • Java EE         |
-| Frontend & Mobile     | Flutter • Vaadin • Angular • Vue.js                      |
-| Prozessmodellierung   | Camunda BPMN • External Task Pattern • Kogito            |
-| DevOps & CI/CD        | GitHub Actions • Jenkins • Argo CD • Docker • Kubernetes |
-| Cloud & Infrastruktur | Azure AKS • Civo • Entra ID • Key Vault • Blob Storage   |
-| IAM & Security        | Keycloak • OAuth2 • SAML • JWT • SailPoint               |
-| Automatisierung       | Make.com • Paperless • Liquibase • GitHub • Miro         |
+## 🛠️ Technologien & Tools – mein tägliches Handwerkszeug
+
+| Kategorie             | Technologien & Plattformen                                                          |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Programmiersprachen**     | Java • Dart • Python • Bash (Shell)                                               |
+| **Backend-Entwicklung**     | Quarkus • Spring Boot • Java EE • REST • GraphQL                                 |
+| **Frontend & Mobile**       | Flutter • Vaadin • Angular • Vue.js                                              |
+| **Workflow & Prozesse**     | Camunda BPMN • External Task Pattern • Kogito                                    |
+| **DevOps & CI/CD**          | GitHub Actions • Jenkins • Argo CD • Docker • Kubernetes                         |
+| **Cloud & Infrastruktur**   | Azure AKS • Civo Kubernetes • Entra ID • Key Vault • Blob & File Storage         |
+| **Identity & Security**     | Keycloak • OAuth2 • SAML • JWT • SailPoint                                       |
+| **Business-Automatisierung**| Make.com • Paperless • Liquibase • GitHub • Miro                                 |
 
 ---
 
-##  Beruflicher Hintergrund
+## Beruflicher Hintergrund
 
-Ich habe Enterprise-Software gebaut, bevor der Begriff „Digitalisierung“ in Vorständen angekommen ist. Vom regulatorischen Finanzsystem über Prozessplattformen in der Energiewirtschaft bis zur AI-gestützten Dokumentenanalyse habe ich Lösungen geliefert, die funktionieren – und die Unternehmen verändern.
+Ich habe Enterprise-Software entwickelt, lange bevor „Digitalisierung“ zum Buzzword in Vorstandsetagen wurde. Ob regulatorisches Finanzsystem, Prozessplattform in der Energiewirtschaft oder KI-gestützte Dokumentenanalyse – ich liefere IT-Lösungen, die laufen. Robust, skalierbar, verständlich.
 
-Ich verstehe IT nicht als Selbstzweck, sondern als strategischen Hebel. Und genau das macht meinen Unterschied: Ich denke nicht in Features, ich denke in Nutzen. Ich entwickle Systeme, die morgen noch laufen – und übermorgen noch Sinn ergeben. Architekturentscheidungen treffe ich nicht dogmatisch, sondern faktenbasiert – mit klarem Blick auf Wartbarkeit, Skalierbarkeit und Betrieb.
+Für mich ist IT kein Selbstzweck, sondern ein strategisches Werkzeug. Ich denke nicht in Features, sondern in **echtem Mehrwert**. Meine Systeme sind so konzipiert, dass sie **morgen produktiv** und **übermorgen sinnvoll erweiterbar** sind. Architekturentscheidungen treffe ich faktenbasiert – mit Fokus auf **Wartbarkeit**, **Skalierbarkeit** und **Betriebskosten**.
 
-Aktuell leite ich die Digitalisierung in einem Unternehmen der kritischen Infrastruktur. Ich verantwortete zuvor Millionenprojekte als Architekt und Geschäftsführer einer Softwarefirma. Ich habe cross-funktionale Teams aufgebaut, APIs entworfen, Governance-Konzepte entwickelt – und alles dokumentiert, automatisiert und produktionsreif abgeliefert. Ich kann Software planen, entwickeln, betreiben – und erklären.
+Aktuell leite ich die **Digitalisierung und Projektkoordination** in einem Unternehmen der **kritischen Infrastruktur (KRITIS)**. Davor verantwortete ich als Geschäftsführer einer Softwarefirma mehrere **Millionenprojekte**, baute **cross-funktionale Teams** auf, entwickelte APIs, etablierte Governance-Strukturen – und sorgte dafür, dass alles dokumentiert, automatisiert und produktionsreif war.
+
+Ich kann Software **planen**, **entwickeln**, **betreiben** – und **erklären**. Verständlich. Verantwortlich. Verlässlich.
 
 ---
 

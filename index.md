@@ -70,7 +70,7 @@ Gemeinsam mit meiner Frau führe ich die **Berger & Rosenstock GbR** – unser k
 📱 **App-Entwicklung**: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends  
 🧾 **Prozessautomatisierung**: Digitale Workflows für Selbstständige & KMU  
 🛍️ **E-Commerce & Marke**: [novinophobia.store](https://www.novinophobia.store) – Print-on-Demand für Wein- & Genussmenschen  
-🎥 **Business & IT-Content**: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische) – YouTube für ehrliches Business-Wissen, Digitalisierung & IT mit Tiefgang  
+🎥 **Business & IT-Content**: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.offical) – YouTube für ehrliches Business-Wissen, Digitalisierung & IT mit Tiefgang  
 💄 **Beauty & Lifestyle**: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty) – Jasmins Instagram-Kanal für Kosmetik, Styling & Selbstfürsorge  
 📸 **Persönlicher Kanal**: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official) – Einblicke in Projekte, Alltag und Unternehmertum
 

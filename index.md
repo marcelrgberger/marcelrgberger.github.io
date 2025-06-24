@@ -64,29 +64,40 @@ Aktuell leite ich die Digitalisierung in einem Unternehmen der kritischen Infras
 
 ---
 
-###  Nebenprojekte & Marken
-Gemeinsam mit meiner Frau führe ich die **Berger & Rosenstock GbR** – unser kreatives Zuhause für Software, Medien und Markenentwicklung:
+## Ein Unternehmen. Zwei Köpfe. Viele Ideen.
 
-📱 **App-Entwicklung**: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends  
-🧾 **Prozessautomatisierung**: Digitale Workflows für Selbstständige & KMU  
-🛍️ **E-Commerce & Marke**: [novinophobia.store](https://www.novinophobia.store) – Print-on-Demand für Wein- & Genussmenschen  
-🎥 **Business & IT-Content**: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.offical) – YouTube für ehrliches Business-Wissen, Digitalisierung & IT mit Tiefgang  
-💄 **Beauty & Lifestyle**: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty) – Jasmins Instagram-Kanal für Kosmetik, Styling & Selbstfürsorge  
-📸 **Persönlicher Kanal**: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official) – Einblicke in Projekte, Alltag und Unternehmertum
+Die **Berger & Rosenstock GbR** ist das gemeinsame Dach, unter dem Jasmin und ich unsere Dienste, Ideen und Leidenschaften bündeln.  
+Was als einfache Zusammenarbeit begann, ist heute ein vielseitiges Kreativ- und Technikprojekt:  
+Wir entwickeln digitale Produkte wie Apps und Automatisierungslösungen, betreiben Marken im E-Commerce-Bereich,  
+produzieren Inhalte für YouTube und Social Media – und bringen dabei unsere jeweiligen Schwerpunkte in  
+**IT, Business, Beauty und Lifestyle** gezielt zusammen.  
 
-Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in Buzzwords, sondern in Architekturen. Nicht in Features, sondern in Ergebnissen.
+Ob Softwarearchitektur oder Styling-Tipps, ob Print-on-Demand oder Content mit Haltung –  
+wir arbeiten als Unternehmerpaar partnerschaftlich, praxisnah und mit einem klaren Blick für das Wesentliche.
 
 ---
 
 ## 📡 Kontakt & Präsenz
 
+### 👨‍💻 Marcel Berger – IT, Software & Business
+- 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)
 - 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.offical)
+- 🌐 Kanal-Website: [butterbeidiefische.online](https://www.butterbeidiefische.online)
 - 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
 - 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
-- 🛍️ Shop & Marke: [novinophobia.store](https://www.novinophobia.store)
-- 🗂️ Business: [Berger & Rosenstock GbR](htps://berger-rosenstock.de)
 - 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
-- 💄 Instagram (Beauty-Kanal von Jasmin): [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
+- 🕊️ X (ehem. Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
+
+### 💄 Jasmin Rosenstock – Beauty & Lifestyle
+- 🌐 Website: [jasminelise-beauty.de](https://www.jasminelise-beauty.de)
+- 🎥 YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
+- 📸 Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
+
+### 🛍️ Unsere Marke
+- 🛒 Online-Shop: [novinophobia.store](https://www.novinophobia.store)
+
+### 🗂️ Unser Unternehmen
+- 🌐 Website der GbR: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 

@@ -26,7 +26,7 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-## 🔎 Mein Profil in Schlagworten
+##  Mein Profil in Schlagworten
 
 * 🚀 Über 30 Jahre Programmiererfahrung – davon mehr als ein Jahrzehnt in Architektur & Führung
 * ☁️ Cloud-native Backend-Expertise mit **Java**, **Quarkus** und **Spring Boot**
@@ -40,8 +40,6 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 ---
 
 ##  Technologien & Werkzeuge – mein tägliches Handwerkszeug
-
-## 🛠️ Technologien & Tools – mein tägliches Handwerkszeug
 
 | Kategorie             | Technologien & Plattformen                                                          |
 |----------------------|--------------------------------------------------------------------------------------|
@@ -81,7 +79,7 @@ wir arbeiten als Unternehmerpaar partnerschaftlich, praxisnah und mit einem klar
 
 ---
 
-## 📡 Kontakt & Präsenz
+## Kontakt & Präsenz
 
 ### 👨‍💻 Marcel Berger – IT, Software & Business
 - 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)

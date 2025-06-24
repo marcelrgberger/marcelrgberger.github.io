@@ -15,7 +15,7 @@ Dieselstraße 22e
 Deutschland
 
 ## Kontakt
-E-Mail: [moin@berger-rosenstock.de](mailto:moin@berger-rosenstock.de)
+E-Mail: [moin@marcelrgberger.de](mailto:moin@marcelrgberger.de)
 
 ## Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV
 Marcel Berger

@@ -1,4 +1,4 @@
-# 👋 Moin, ich bin Marcel Berger
+# Moin, ich bin Marcel Berger
 
 💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz
 *Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*
@@ -19,66 +19,84 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-## 🧠 Mein Profil in Schlagworten
+##  Mein Profil in Schlagworten
 
-* 🚀 30+ Jahre Programmiererfahrung, davon 10+ Jahre in Führungs- und Architekturverantwortung
-* ☁️ Spezialisiert auf Cloud-native Backends mit Java, Quarkus und Spring Boot
-* 📱 Entwicklung produktionsreifer Apps mit Flutter, kombiniert mit leistungsstarken APIs
-* 🔐 Sicherheit, Identity & Governance: Keycloak, SailPoint, OAuth2, SAML, Entra ID
-* ⚙️ CI/CD, Containerisierung & DevOps mit GitHub Actions, Docker, Kubernetes, Argo CD
-* 🧠 Visionär für digitale Transformation & Automatisierung in mittelständischen Unternehmen
-* 📍 Aktuell: Leiter Digitalisierung & Projektkoordination in einem KRITIS-Unternehmen
-* 🎯 Nebenberuflich: Content Creator, App-Innovator, Unternehmer mit Fokus auf nachhaltige IT
-
----
-
-## 🛠️ Technologien & Werkzeuge – mein tägliches Handwerkszeug
-
-| Bereich               | Technologien / Tools                                     |
-| --------------------- | -------------------------------------------------------- |
-| Sprachen              | Java • Dart • Shell (Bash) • Python                      |
-| Backend               | Quarkus • Spring Boot • REST • GraphQL • Java EE         |
-| Frontend & Mobile     | Flutter • Vaadin • Angular • Vue.js                      |
-| Prozessmodellierung   | Camunda BPMN • External Task Pattern • Kogito            |
-| DevOps & CI/CD        | GitHub Actions • Jenkins • Argo CD • Docker • Kubernetes |
-| Cloud & Infrastruktur | Azure AKS • Civo • Entra ID • Key Vault • Blob Storage   |
-| IAM & Security        | Keycloak • OAuth2 • SAML • JWT • SailPoint               |
-| Automatisierung       | Make.com • Paperless • Liquibase • GitHub • Miro         |
+* 🚀 Über 30 Jahre Programmiererfahrung – davon mehr als ein Jahrzehnt in Architektur & Führung
+* ☁️ Cloud-native Backend-Expertise mit **Java**, **Quarkus** und **Spring Boot**
+* 📱 Entwicklung marktreifer **Flutter-Apps**, nahtlos integriert mit leistungsfähigen APIs
+* 🔐 Spezialist für **Security & Identity Management**: **Keycloak**, **OAuth2**, **SAML**, **SailPoint**, **Entra ID**
+* ⚙️ Automatisierung durch **CI/CD-Pipelines**, **Containerisierung** und **Kubernetes** – mit **GitHub Actions** & **Argo CD**
+* 🧠 Strategischer Treiber für **digitale Transformation** und **Prozessautomatisierung** im Mittelstand
+* 🏢 Aktuell: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**
+* 🎯 Nebenberuflich: **Content Creator**, **App-Entwickler** und Unternehmer mit Fokus auf nachhaltige IT-Lösungen
 
 ---
 
-## 💼 Beruflicher Hintergrund
+##  Technologien & Werkzeuge – mein tägliches Handwerkszeug
 
-Ich habe Enterprise-Software gebaut, bevor der Begriff „Digitalisierung“ in Vorständen angekommen ist. Vom regulatorischen Finanzsystem über Prozessplattformen in der Energiewirtschaft bis zur AI-gestützten Dokumentenanalyse habe ich Lösungen geliefert, die funktionieren – und die Unternehmen verändern.
-
-Ich verstehe IT nicht als Selbstzweck, sondern als strategischen Hebel. Und genau das macht meinen Unterschied: Ich denke nicht in Features, ich denke in Nutzen. Ich entwickle Systeme, die morgen noch laufen – und übermorgen noch Sinn ergeben. Architekturentscheidungen treffe ich nicht dogmatisch, sondern faktenbasiert – mit klarem Blick auf Wartbarkeit, Skalierbarkeit und Betrieb.
-
-Aktuell leite ich die Digitalisierung in einem Unternehmen der kritischen Infrastruktur. Ich verantwortete zuvor Millionenprojekte als Architekt und Geschäftsführer einer Softwarefirma. Ich habe cross-funktionale Teams aufgebaut, APIs entworfen, Governance-Konzepte entwickelt – und alles dokumentiert, automatisiert und produktionsreif abgeliefert. Ich kann Software planen, entwickeln, betreiben – und erklären.
-
----
-
-## 🌟 Nebenprojekte & Marken
-
-Gemeinsam mit meiner Frau führe ich die Berger & Rosenstock GbR – unser kreatives Zuhause für Software, Medien und Markenentwicklung:
-
-* 📱 App-Entwicklung: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends
-* 🧾 Prozessautomatisierung: Digitale Workflows für Selbstständige & KMU
-* 🛍️ E-Commerce & Marke: [novinophobia.store](https://novinophobia.store) – Print-on-Demand für Weingenießer
-* 🎥 Content & Bildung: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische) – YouTube für ehrliches IT-Verständnis mit echtem Tiefgang
-
-Wenn du Klartext in der IT willst – bist du hier richtig. Ich spreche nicht in Buzzwords, sondern in Architekturen. Nicht in Features, sondern in Ergebnissen.
+| Kategorie             | Technologien & Plattformen                                                          |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Programmiersprachen**     | Java • Dart • Python • Bash (Shell)                                               |
+| **Backend-Entwicklung**     | Quarkus • Spring Boot • Java EE • REST • GraphQL                                 |
+| **Frontend & Mobile**       | Flutter • Vaadin • Angular • Vue.js                                              |
+| **Workflow & Prozesse**     | Camunda BPMN • External Task Pattern • Kogito                                    |
+| **DevOps & CI/CD**          | GitHub Actions • Jenkins • Argo CD • Docker • Kubernetes                         |
+| **Cloud & Infrastruktur**   | Azure AKS • Civo Kubernetes • Entra ID • Key Vault • Blob & File Storage         |
+| **Identity & Security**     | Keycloak • OAuth2 • SAML • JWT • SailPoint                                       |
+| **Business-Automatisierung**| Make.com • Paperless • Liquibase • GitHub • Miro                                 |
 
 ---
 
-## 📡 Kontakt & Präsenz
+## Beruflicher Hintergrund
 
-* YouTube: [ButterBeiDieFische](https://youtube.com/@butterbeidiefische.offical)
-* LinkedIn: [Zum Profil von Marcel Berger](https://linkedin.com/in/marcel-r-g-berger)
-* Shop & Marke: [novinophobia.store](https://novinophobia.store)
-* Github: [Github von Marcel Berger](https://github.com/marcelrgberger)
+Ich habe Enterprise-Software entwickelt, lange bevor „Digitalisierung“ zum Buzzword in Vorstandsetagen wurde. Ob regulatorisches Finanzsystem, Prozessplattform in der Energiewirtschaft oder KI-gestützte Dokumentenanalyse – ich liefere IT-Lösungen, die laufen. Robust, skalierbar, verständlich.
+
+Für mich ist IT kein Selbstzweck, sondern ein strategisches Werkzeug. Ich denke nicht in Features, sondern in **echtem Mehrwert**. Meine Systeme sind so konzipiert, dass sie **morgen produktiv** und **übermorgen sinnvoll erweiterbar** sind. Architekturentscheidungen treffe ich faktenbasiert – mit Fokus auf **Wartbarkeit**, **Skalierbarkeit** und **Betriebskosten**.
+
+Aktuell leite ich die **Digitalisierung und Projektkoordination** in einem Unternehmen der **kritischen Infrastruktur (KRITIS)**. Davor verantwortete ich als Geschäftsführer einer Softwarefirma mehrere **Millionenprojekte**, baute **cross-funktionale Teams** auf, entwickelte APIs, etablierte Governance-Strukturen – und sorgte dafür, dass alles dokumentiert, automatisiert und produktionsreif war.
+
+Ich kann Software **planen**, **entwickeln**, **betreiben** – und **erklären**. Verständlich. Verantwortlich. Verlässlich.
+
+---
+
+## Ein Unternehmen. Zwei Köpfe. Viele Ideen.
+
+Die **Berger & Rosenstock GbR** ist das gemeinsame Dach, unter dem Jasmin und ich unsere Dienste, Ideen und Leidenschaften bündeln.  
+Was als einfache Zusammenarbeit begann, ist heute ein vielseitiges Kreativ- und Technikprojekt:  
+Wir entwickeln digitale Produkte wie Apps und Automatisierungslösungen, betreiben Marken im E-Commerce-Bereich,  
+produzieren Inhalte für YouTube und Social Media – und bringen dabei unsere jeweiligen Schwerpunkte in  
+**IT, Business, Beauty und Lifestyle** gezielt zusammen.  
+
+Ob Softwarearchitektur oder Styling-Tipps, ob Print-on-Demand oder Content mit Haltung –  
+wir arbeiten als Unternehmerpaar partnerschaftlich, praxisnah und mit einem klaren Blick für das Wesentliche.
+
+---
+
+## Kontakt & Präsenz
+
+### 👨‍💻 Marcel Berger – IT, Software & Business
+- 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)
+- 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.offical)
+- 🌐 Kanal-Website: [butterbeidiefische.online](https://www.butterbeidiefische.online)
+- 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
+- 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)
+- 📸 Instagram: [@marcel.berger.official](https://www.instagram.com/marcel.berger.official)
+- 🕊️ X (ehem. Twitter): [@marcelrgberger](https://x.com/marcelrgberger)
+
+### 💄 Jasmin Rosenstock – Beauty & Lifestyle
+- 🌐 Website: [jasminelise-beauty.de](https://www.jasminelise-beauty.de)
+- 🎥 YouTube: [jasminelise_beauty](https://www.youtube.com/@jasminelise_beauty)
+- 📸 Instagram: [@jasminelise_beauty](https://www.instagram.com/jasminelise_beauty)
+
+### 🛍️ Unsere Marke
+- 🛒 Online-Shop: [novinophobia.store](https://www.novinophobia.store)
+
+### 🗂️ Unser Unternehmen
+- 🌐 Website der GbR: [berger-rosenstock.de](https://www.berger-rosenstock.de)
 
 ---
 
 > *"The only way to do great work is to love what you do." – Steve Jobs*
 
 Danke für deinen Besuch. Wenn du nach echter Substanz in der IT-Welt suchst – hast du sie gerade gefunden. Ehrlich. Direkt. Nordisch gut.
+

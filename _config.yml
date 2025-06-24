@@ -1,6 +1,6 @@
 title: "Marcel R. G. Berger"
 description: "Apps, Plattformen, Prozesse – digital, robust, real."
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 color_scheme: dark
 logo: ""  # optional: Pfad zu einem Logo
 nav_sort: manual

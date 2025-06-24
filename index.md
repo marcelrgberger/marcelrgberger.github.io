@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Startseite"
+nav_order: 1
+permalink: /
+---
+
 # 👋 Moin, ich bin Marcel
 
 💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz

@@ -1,6 +1,4 @@
 title: "Marcel Berger"
 description: "Apps, Plattformen & Prozesse"
-remote_theme: pages-themes/architect@v0.2.0
-color_scheme: dark
-logo: ""  # optional: Pfad zu einem Logo
-nav_sort: manual
+remote_theme: pages-themes/hacker@v0.2.0
+

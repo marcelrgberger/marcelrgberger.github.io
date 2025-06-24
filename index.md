@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# 👋 Moin, ich bin Marcel
+# Moin, ich bin Marcel
 
 💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz
 *Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*
@@ -26,7 +26,7 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-## 🧠 Mein Profil in Schlagworten
+##  Mein Profil in Schlagworten
 
 * 🚀 30+ Jahre Programmiererfahrung, davon 10+ Jahre in Führungs- und Architekturverantwortung
 * ☁️ Spezialisiert auf Cloud-native Backends mit Java, Quarkus und Spring Boot
@@ -39,7 +39,7 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-## 🛠️ Technologien & Werkzeuge – mein tägliches Handwerkszeug
+##  Technologien & Werkzeuge – mein tägliches Handwerkszeug
 
 | Bereich               | Technologien / Tools                                     |
 | --------------------- | -------------------------------------------------------- |
@@ -54,7 +54,7 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-## 💼 Beruflicher Hintergrund
+##  Beruflicher Hintergrund
 
 Ich habe Enterprise-Software gebaut, bevor der Begriff „Digitalisierung“ in Vorständen angekommen ist. Vom regulatorischen Finanzsystem über Prozessplattformen in der Energiewirtschaft bis zur AI-gestützten Dokumentenanalyse habe ich Lösungen geliefert, die funktionieren – und die Unternehmen verändern.
 
@@ -64,7 +64,7 @@ Aktuell leite ich die Digitalisierung in einem Unternehmen der kritischen Infras
 
 ---
 
-### 🌟 Nebenprojekte & Marken
+###  Nebenprojekte & Marken
 Gemeinsam mit meiner Frau führe ich die **Berger & Rosenstock GbR** – unser kreatives Zuhause für Software, Medien und Markenentwicklung:
 
 📱 **App-Entwicklung**: Native Mobile Apps mit Flutter + leistungsfähigen Java-Backends  

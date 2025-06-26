@@ -19,7 +19,7 @@ Berger & Rosenstock GbR
 Dieselstraße 22e
 61231 Bad Nauheim
 Deutschland
-E-Mail: [moin@berger-rosenstock.de](mailto:moin@berger-rosenstock.de)
+E-Mail: [moin@marcelrgberger.de](mailto:moin@marcelrgberger.de)
 
 ---
 
@@ -118,7 +118,7 @@ Sie haben gemäß DSGVO insbesondere folgende Rechte:
 - **Datenübertragbarkeit** (Art. 20 DSGVO)
 - **Widerspruch** gegen bestimmte Verarbeitungen (Art. 21 DSGVO)
 
-Zur Ausübung dieser Rechte genügt eine formlose E-Mail an: [moin@berger-rosenstock.de](mailto:moin@berger-rosenstock.de)
+Zur Ausübung dieser Rechte genügt eine formlose E-Mail an: [moin@marcelrgberger.de](mailto:moin@marcelrgberger.de)
 
 ---
 

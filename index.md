@@ -7,7 +7,7 @@ permalink: /
 
 # Moin, ich bin Marcel Berger
 
-💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz
+💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 20 Jahren tief verwurzelter IT-Kompetenz
 *Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*
 
 Ich bin kein Blender. Ich bin hanseatisch direkt – geboren und aufgewachsen in Osnabrück, mit klarer Kante, technischem Tiefgang und einem lösungsorientierten Mindset. Wenn du jemanden suchst, der schnackt statt liefert, bist du bei mir falsch. Wenn du aber jemanden brauchst, der digitale Projekte pragmatisch umsetzt, Verantwortung übernimmt und keine Angst vor Komplexität hat – dann herzlich willkommen.

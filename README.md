@@ -1,6 +1,7 @@
+
 # Moin, ich bin Marcel Berger
 
-💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 30 Jahren tief verwurzelter IT-Kompetenz
+💻 Senior Software Architect, Cloud Engineer & Digitalisierungsexperte – mit 20 Jahren tief verwurzelter IT-Kompetenz
 *Java-Mastermind • Quarkus-Vordenker • Flutter-Pionier • DevOps-Guru • IT-Stratege mit Hands-on-Mentalität*
 
 Ich bin kein Blender. Ich bin hanseatisch direkt – geboren und aufgewachsen in Osnabrück, mit klarer Kante, technischem Tiefgang und einem lösungsorientierten Mindset. Wenn du jemanden suchst, der schnackt statt liefert, bist du bei mir falsch. Wenn du aber jemanden brauchst, der digitale Projekte pragmatisch umsetzt, Verantwortung übernimmt und keine Angst vor Komplexität hat – dann herzlich willkommen.
@@ -19,45 +20,107 @@ Wer mich googelt, findet nicht nur Code, sondern Konzepte. Nicht nur Skills, son
 
 ---
 
-##  Mein Profil in Schlagworten
 
-* 🚀 Über 30 Jahre Programmiererfahrung – davon mehr als ein Jahrzehnt in Architektur & Führung
-* ☁️ Cloud-native Backend-Expertise mit **Java**, **Quarkus** und **Spring Boot**
-* 📱 Entwicklung marktreifer **Flutter-Apps**, nahtlos integriert mit leistungsfähigen APIs
-* 🔐 Spezialist für **Security & Identity Management**: **Keycloak**, **OAuth2**, **SAML**, **SailPoint**, **Entra ID**
-* ⚙️ Automatisierung durch **CI/CD-Pipelines**, **Containerisierung** und **Kubernetes** – mit **GitHub Actions** & **Argo CD**
-* 🧠 Strategischer Treiber für **digitale Transformation** und **Prozessautomatisierung** im Mittelstand
-* 🏢 Aktuell: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**
-* 🎯 Nebenberuflich: **Content Creator**, **App-Entwickler** und Unternehmer mit Fokus auf nachhaltige IT-Lösungen
+## Mein Profil in Schlagworten
+
+### 🖥️ Technologien & Softwareentwicklung
+
+* 🚀 Über 20 Jahre Erfahrung in der Softwareentwicklung, davon mehr als ein Jahrzehnt als Softwarearchitekt und technischer Leiter in komplexen Enterprise-Projekten
+* ☁️ Cloud-native Backend-Entwicklung mit Java (J2EE / Java EE, Spring Boot, Quarkus) – von klassischen Enterprise-Systemen bis zu hochskalierbaren Microservices-Architekturen
+* 📱 Flutter-App-Entwicklung für iOS und Android: Architektur, State Management mit Riverpod, responsive UI/UX, Performance-Optimierung und Integration leistungsfähiger REST- und GraphQL-APIs
+* 🔌 Entwicklung robuster Enterprise-Integrationen und API-Designs für REST, GraphQL und SOAP, inklusive Schnittstellenarchitektur und Security-Konzepte
+* 🗄️ Datenbanken: PostgreSQL, Oracle, MySQL – Modellierung, Optimierung und Anbindung für hochperformante Anwendungen
+* ✉️ Event-Driven Architectures mit Apache Kafka und RabbitMQ für skalierbare und resiliente Systemkommunikation
+
+---
+
+### 🔐 Security & Identity Management
+
+* 🔐 Experte für Security und Identity Management, inklusive Implementierung von Keycloak, OAuth2, SAML, SailPoint IdentityIQ und Microsoft Entra ID (Azure AD)
+* 🛡️ Konzeption und Umsetzung sicherer Authentifizierungs- und Autorisierungslösungen, Identity Federation und Single Sign-On für Enterprise- und Cloud-Umgebungen
 
 ---
 
-##  Technologien & Werkzeuge – mein tägliches Handwerkszeug
+### ⚙️ DevOps, CI/CD & Cloud Operations
 
-| Kategorie             | Technologien & Plattformen                                                          |
-|----------------------|--------------------------------------------------------------------------------------|
-| **Programmiersprachen**     | Java • Dart • Python • Bash (Shell)                                               |
-| **Backend-Entwicklung**     | Quarkus • Spring Boot • Java EE • REST • GraphQL                                 |
-| **Frontend & Mobile**       | Flutter • Vaadin • Angular • Vue.js                                              |
-| **Workflow & Prozesse**     | Camunda BPMN • External Task Pattern • Kogito                                    |
-| **DevOps & CI/CD**          | GitHub Actions • Jenkins • Argo CD • Docker • Kubernetes                         |
-| **Cloud & Infrastruktur**   | Azure AKS • Civo Kubernetes • Entra ID • Key Vault • Blob & File Storage         |
-| **Identity & Security**     | Keycloak • OAuth2 • SAML • JWT • SailPoint                                       |
-| **Business-Automatisierung**| Make.com • Paperless • Liquibase • GitHub • Miro                                 |
+* ⚙️ Aufbau vollständiger CI/CD-Pipelines und Automatisierungen mit GitHub Actions und Argo CD
+* 🐳 Containerisierung mit Docker und Podman sowie Orchestrierung mit Kubernetes, inklusive Infrastruktur-as-Code und automatisierten Deployments in produktiven Cloud-Umgebungen
+* 🌐 Erfahrung mit Azure Cloud Services, insbesondere AKS (Azure Kubernetes Service), Blob & File Storage, Key Vault und weiteren Cloud-native Komponenten
 
 ---
+
+### 🧠 Digitale Transformation & Prozessautomatisierung
+
+* 🧠 Strategischer Treiber digitaler Transformation: Analyse, Optimierung und Digitalisierung von Geschäftsprozessen im Mittelstand sowie in kritischen Infrastrukturen
+* 🔄 Umsetzung nachhaltiger Prozessdigitalisierung und Workflow-Automatisierung, inklusive BPMN-Lösungen mit Camunda und Low-Code-Automatisierungen mit Make.com und Zapier
+
+---
+
+### 👥 Führung, Agile Methoden & Business
+
+* 🤝 Mehr als 10 Jahre Erfahrung als Unternehmer und Selbstständiger, mit Gründung, Aufbau und Führung mehrerer Unternehmen in IT-Consulting, Softwareentwicklung und digitalen Geschäftsmodellen
+* 💡 Unternehmerischer Stratege mit Fokus auf Skalierung, Monetarisierung und Entwicklung nachhaltiger digitaler Produkte und Geschäftsmodelle
+* 🏢 Teamführung und Mentoring von Entwicklern, Architekten und cross-funktionalen Teams in agilen Projekten sowie Verantwortung für Recruiting, Coaching und Teamentwicklung
+* 🌀 Praktische Erfahrung mit Scrum, Kanban und DevOps-orientierter Entwicklung, inklusive Product Ownership und Stakeholder-Management auf C-Level
+
+---
+
+
+### 🔭 Aktuelle Position & Nebenprojekte
+
+* 🏢 **Aktuell**: Leiter Digitalisierung & Projektkoordination bei einem **KRITIS-Infrastrukturbetreiber**, verantwortlich für **Digitalstrategie**, IT-Projektportfolios, Cybersicherheit und Innovation
+* 🎯 **Nebenberuflich**: Unternehmer, **App-Entwickler** und **Content Creator** – Vermittlung komplexer IT-Themen, Aufbau skalierbarer digitaler Geschäftsmodelle und Entwicklung marktreifer Apps mit klarer Monetarisierungsstrategie
+
+
+---
+
+
+## Technologien & Werkzeuge – mein tägliches Handwerkszeug
+
+| Kategorie                  | Technologien & Plattformen                                                                                                                                                 |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programmiersprachen         | Java (J2EE / Java EE, Spring Boot, Quarkus) • Dart • Python • Bash (Shell) • C • BASIC • Turbo Pascal • JavaScript • TypeScript • Go • Groovy • Swift                       |
+| Backend-Entwicklung         | Quarkus • Spring Boot • Java EE • RESTful Services • GraphQL APIs • Microservices-Architekturen                                                                            |
+| Frontend & UI Frameworks    | Flutter (iOS & Android) • Vaadin • Angular • Vue.js • SwiftUI (iOS) • JSP • JSF • PrimeFaces • RichFaces                                                                  |
+| Identity & Security         | Keycloak (IAM) • OAuth2 • SAML • JWT • SailPoint IdentityIQ • Microsoft Entra ID                                                                                           |
+| DevOps & CI/CD              | Git (GitHub, Bitbucket) • GitHub Actions (CI/CD Automation) • Jenkins • Argo CD (GitOps Deployment) • Docker • Podman • Kubernetes • K9s (Kubernetes Management) • Portainer |
+| Build & Repository Management | Maven • Gradle • Nexus Repository • Sonatype Nexus • JFrog Artifactory • SonarQube • SonarCloud                                                                          |
+| Workflow & Prozessautomatisierung | Camunda BPMN • Kogito • External Task Pattern • Make.com (Low-Code Automation) • Zapier (Integration Automation)                                                   |
+| Cloud & Infrastruktur       | Microsoft Azure (AKS, Entra ID, Key Vault, Blob & File Storage) • Civo Kubernetes                                                                                          |
+| Betriebssysteme & Administration | Windows • macOS • Linux (Ubuntu, CentOS, RedHat, Debian, Alpine Linux, Raspberry Pi OS)                                                                              |
+| Event-Driven Architecture & Messaging | Apache Kafka • RabbitMQ                                                                                                                                         |
+| Datenbanken & Storage       | PostgreSQL • Oracle DB • MySQL • H2 Datenbanken • MongoDB • Cassandra • Liquibase (Database Migrations)                                                                    |
+| Testing & Qualitätssicherung | jUnit • Mockito • Selenium                                                                                                                                               |
+| Reporting & Template Engines | JasperReports • Qute (Quarkus Template Engine) • Thymeleaf • Freemarker • Velocity                                                                                        |
+| IDE & Entwicklungsumgebungen | Eclipse • JetBrains IntelliJ IDEA • JetBrains DataGrip • Android Studio • Xcode • Visual Studio Code (VS Code) • Vim • Nano                                               |
+| Business Tools & Office     | Word • Excel • PowerPoint • Miro • Jira & Confluence • SAP                                                                                                                 |
+| Methoden & Arbeitsweisen    | Scrum • Scrum Master Certified • Scrum Developer • Kanban • Pair Programming • Test Driven Development (TDD)                                                               |
+
+
+---
+
 
 ## Beruflicher Hintergrund
 
-Ich habe Enterprise-Software entwickelt, lange bevor „Digitalisierung“ zum Buzzword in Vorstandsetagen wurde. Ob regulatorisches Finanzsystem, Prozessplattform in der Energiewirtschaft oder KI-gestützte Dokumentenanalyse – ich liefere IT-Lösungen, die laufen. Robust, skalierbar, verständlich.
+Ich habe Enterprise-Software entwickelt, lange bevor „Digitalisierung“ zum Buzzword in Vorstandsetagen wurde. Ob regulatorische Finanzsysteme mit höchsten Sicherheitsanforderungen, Prozessplattformen in der Energiewirtschaft, komplexe Identity-Management-Lösungen oder KI-gestützte Dokumentenanalyse – ich liefere IT-Lösungen, die laufen. Robust, skalierbar, verständlich.
 
-Für mich ist IT kein Selbstzweck, sondern ein strategisches Werkzeug. Ich denke nicht in Features, sondern in **echtem Mehrwert**. Meine Systeme sind so konzipiert, dass sie **morgen produktiv** und **übermorgen sinnvoll erweiterbar** sind. Architekturentscheidungen treffe ich faktenbasiert – mit Fokus auf **Wartbarkeit**, **Skalierbarkeit** und **Betriebskosten**.
+Für mich ist IT kein Selbstzweck, sondern ein strategisches Werkzeug. Ich denke nicht in Features, sondern in **echtem geschäftlichen Mehrwert**. Meine Systeme sind so konzipiert, dass sie **morgen produktiv**, **übermorgen erweiterbar** und auch in fünf Jahren noch **wartbar und kosteneffizient** sind. Architekturentscheidungen treffe ich faktenbasiert – mit Fokus auf **Clean Code**, **Wartbarkeit**, **Skalierbarkeit**, **Sicherheit** und **Betriebskosten** über den gesamten Lifecycle.
 
-Aktuell leite ich die **Digitalisierung und Projektkoordination** in einem Unternehmen der **kritischen Infrastruktur (KRITIS)**. Davor verantwortete ich als Geschäftsführer einer Softwarefirma mehrere **Millionenprojekte**, baute **cross-funktionale Teams** auf, entwickelte APIs, etablierte Governance-Strukturen – und sorgte dafür, dass alles dokumentiert, automatisiert und produktionsreif war.
+Aktuell leite ich die **Digitalisierung und Projektkoordination** in einem Unternehmen der **kritischen Infrastruktur (KRITIS)**. Dort verantworte ich die **Digitalstrategie**, entwickle Prozessdigitalisierungen, Automatisierungslösungen und sichere Cloud-Architekturen, führe mein Team fachlich und organisatorisch und manage komplexe Projekte mit hoher Sichtbarkeit bis auf Geschäftsführungsebene.
 
-Ich kann Software **planen**, **entwickeln**, **betreiben** – und **erklären**. Verständlich. Verantwortlich. Verlässlich.
+Davor war ich über zehn Jahre Unternehmer und Geschäftsführer einer eigenen Softwarefirma. In dieser Zeit habe ich:
+
+- **Mehrere Millionenprojekte verantwortet** – von der Akquise über Architektur und Umsetzung bis zum Betrieb
+- **Cross-funktionale Teams aufgebaut und geführt**, bestehend aus Entwicklern, Architekten, DevOps-Engineers und UI/UX-Designern
+- **APIs und Microservices-Architekturen entwickelt**, die heute produktiv in Finanzinstituten, Industrie und Energiewirtschaft im Einsatz sind
+- **Governance-, Security- und Compliance-Strukturen etabliert**, um regulatorische Anforderungen sicher und prüfbar zu erfüllen
+- **CI/CD-Pipelines, Containerisierung und automatisierte Deployments** aufgebaut, um Time-to-Market und Betriebskosten signifikant zu reduzieren
+- **Technische Dokumentationen, Architekturentscheidungen und Betriebskonzepte erstellt**, die für Stakeholder ebenso verständlich wie für Entwickler präzise waren
+
+Ich kann Software **planen**, **architektieren**, **entwickeln**, **betreiben** – und **erklären**. Verständlich. Verantwortlich. Verlässlich. Ich verbinde **technische Tiefe** mit **strategischem Denken**, spreche die Sprache von Entwicklern und Entscheidern und behalte dabei stets das große Ganze im Blick: **Business Value, Qualität, Sicherheit und nachhaltige IT-Architekturen**.
 
 ---
+
 
 ## Ein Unternehmen. Zwei Köpfe. Viele Ideen.
 
@@ -76,7 +139,7 @@ wir arbeiten als Unternehmerpaar partnerschaftlich, praxisnah und mit einem klar
 
 ### 👨‍💻 Marcel Berger – IT, Software & Business
 - 🌐 Website: [marcelrgberger.de](https://www.marcelrgberger.de)
-- 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.offical)
+- 🎥 YouTube: [ButterBeiDieFische](https://www.youtube.com/@butterbeidiefische.official)
 - 🌐 Kanal-Website: [butterbeidiefische.online](https://www.butterbeidiefische.online)
 - 💼 LinkedIn: [Zum Profil von Marcel Berger](https://www.linkedin.com/in/marcel-r-g-berger)
 - 💻 GitHub: [marcelrgberger](https://github.com/marcelrgberger)

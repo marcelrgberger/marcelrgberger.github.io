@@ -128,16 +128,31 @@ Ich kann Software **planen**, **architektieren**, **entwickeln**, **betreiben** 
 ---
 
 
-## Ein Unternehmen. Zwei Köpfe. Viele Ideen.
+## Ein Unternehmen. Zwei Köpfe. Unendliche Möglichkeiten.
 
-Die **Berger & Rosenstock GbR** ist das gemeinsame Dach, unter dem Jasmin und ich unsere Dienste, Ideen und Leidenschaften bündeln.  
-Was als einfache Zusammenarbeit begann, ist heute ein vielseitiges Kreativ- und Technikprojekt:  
-Wir entwickeln digitale Produkte wie Apps und Automatisierungslösungen, betreiben Marken im E-Commerce-Bereich,  
-produzieren Inhalte für YouTube und Social Media – und bringen dabei unsere jeweiligen Schwerpunkte in  
-**IT, Business, Beauty und Lifestyle** gezielt zusammen.  
+Die **Berger & Rosenstock GbR** vereint die gebündelte Expertise von **Jasmin Rosenstock** und **Marcel Berger** unter einem starken Markendach.  
+Was einst als einfache Zusammenarbeit begann, ist heute eine dynamische Symbiose aus **Technologie, Business, Beauty und Lifestyle** – getragen von fundierter Ausbildung, praktischer Erfahrung und unternehmerischer Leidenschaft.
 
-Ob Softwarearchitektur oder Styling-Tipps, ob Print-on-Demand oder Content mit Haltung –  
-wir arbeiten als Unternehmerpaar partnerschaftlich, praxisnah und mit einem klaren Blick für das Wesentliche.
+### Jasmin Rosenstock
+
+Jasmin Rosenstock hat einen Bachelor-Abschluss in **Health Promotion** von der *Coastal Carolina University* (USA) sowie einen Master of Arts in **Public Relations und Corporate Communications** an der *University of Europe for Applied Sciences* erworben.  
+Sie bringt umfassendes Wissen in den Bereichen Gesundheitsförderung, Unternehmenskommunikation, Markenentwicklung und PR-Strategie ein. Ihre Schwerpunkte liegen in **Beauty, Lifestyle, Kommunikation und Markenpositionierung**, wobei sie akademische Expertise mit kreativer Content-Erstellung und strategischem Denken verbindet.
+
+### Marcel Berger
+
+Marcel Berger hat einen Bachelorabschluss in **Wirtschaftsinformatik** von der *Technischen Hochschule Mittelhessen* und vereint technische Kompetenz mit betriebswirtschaftlichem Know-how.  
+Zudem ist er ausgebildeter **Restaurantfachmann (IHK)**, **Barmeister (IHK)** mit Weiterbildung zum Barmixer und umfassenden Kenntnissen im Gastronomiemanagement, **Barista** mit Schwerpunkt auf Kaffeezubereitung und Sensorik sowie **IHK-geprüfter Ausbilder (AEVO)**.
+
+Er verfügt über **mehr als zwei Jahrzehnte Erfahrung in der IT**, angefangen von Programmierung und Softwarearchitektur über Prozessdigitalisierung und Automatisierung bis hin zur Geschäftsführung von Unternehmen mit Millionenumsätzen. Sein Profil verbindet tiefgehende technische Expertise mit unternehmerischem Denken, Leadership und pragmatischer Umsetzungskompetenz.
+
+### Unser gemeinsamer Fokus
+
+Gemeinsam entwickeln wir **digitale Produkte** wie Apps, Automatisierungslösungen und Workflows, bauen **starke Marken im E-Commerce** auf und produzieren **professionellen Content für YouTube und Social Media**.  
+Dabei bündeln wir technisches Wissen, unternehmerisches Denken, Kreativität und kommunikative Stärke – für Ergebnisse, die **sichtbar, nutzbar und gewinnbringend** sind.
+
+Ob **Softwarearchitektur**, **Print-on-Demand-Produkte**, **Beauty- und Styling-Tipps**, **Markenaufbau** oder **Content mit klarer Haltung**:  
+Als Unternehmerpaar arbeiten wir praxisnah, direkt und immer mit klarem Fokus auf **Mehrwert, Wirkung und nachhaltigen Erfolg**.
+
 
 ---
 

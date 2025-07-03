@@ -23,7 +23,7 @@ Marcel Berger
 ## Rechtsform
 Gesellschaft bürgerlichen Rechts (GbR)  
 keine Eintragung im Handelsregister  
-Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: *nicht vorhanden*
+Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE455096022
 
 ## Verantwortungsbereich dieser Website
 Diese Website dient der geschäftsmäßigen Außendarstellung von Marcel Berger im Rahmen seiner beruflichen und nebenberuflichen Tätigkeit als IT-Architekt, Softwareentwickler, Unternehmer und Content Creator.  

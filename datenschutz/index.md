@@ -96,6 +96,8 @@ Diese Website verwendet **keine Cookies, keine eingebetteten Skripte von Drittan
 
 Ein Consent-Management ist daher **nicht erforderlich**, solange keine Tracking- oder Analysewerkzeuge eingebunden werden.
 
+Diese Website verwendet für die Anzeige von Technologie-Badges den Dienst shields.io (Bereitstellung von statischen Badge-Bildern). Hierbei wird Ihre IP-Adresse an shields.io übertragen. Es werden keine Cookies gesetzt. Weitere Informationen finden Sie unter https://shields.io.
+
 ---
 
 ## 6. Rechtsgrundlagen der Verarbeitung

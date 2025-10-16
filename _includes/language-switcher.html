@@ -1,0 +1,18 @@
+<div class="language-switcher">
+  {% assign current_page = page.url %}
+  {% if page.lang == 'en' or current_page contains '/en/' %}
+    <a href="{{ current_page | remove: '/en' }}" title="Deutsch">
+      <img src="/images/flag-de.svg" alt="DE" class="flag-icon">
+    </a>
+    <span class="current-lang">
+      <img src="/images/flag-en.svg" alt="EN" class="flag-icon">
+    </span>
+  {% else %}
+    <span class="current-lang">
+      <img src="/images/flag-de.svg" alt="DE" class="flag-icon">
+    </span>
+    <a href="/en{{ current_page }}" title="English">
+      <img src="/images/flag-en.svg" alt="EN" class="flag-icon">
+    </a>
+  {% endif %}
+</div>

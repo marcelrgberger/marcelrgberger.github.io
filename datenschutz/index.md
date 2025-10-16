@@ -1,6 +1,7 @@
 ---
 title: Datenschutzerklärung
 permalink: /datenschutz/
+lang: de
 ---
 # Datenschutzerklärung
 

@@ -1,3 +1,7 @@
+header {
+  position: relative;
+}
+
 .language-switcher {
   position: absolute;
   top: 20px;

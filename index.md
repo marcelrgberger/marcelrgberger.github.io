@@ -3,6 +3,7 @@ layout: default
 title: "Startseite"
 nav_order: 1
 permalink: /
+lang: de
 ---
 
 # Moin, ich bin Marcel Berger

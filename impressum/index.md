@@ -1,6 +1,7 @@
 ---
 title: Impressum
 permalink: /impressum/
+lang: de
 ---
 
 # Impressum

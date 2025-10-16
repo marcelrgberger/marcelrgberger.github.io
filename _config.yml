@@ -2,3 +2,11 @@ title: "Marcel R. G. Berger"
 description: "Apps, Plattformen & Prozesse"
 remote_theme: pages-themes/hacker@v0.2.0
 
+# Language settings
+languages: ["de", "en"]
+default_lang: "de"
+exclude_from_localization: ["assets", "images"]
+
+# English metadata
+description_en: "Apps, Platforms & Processes"
+

@@ -1,0 +1,27 @@
+<div class="language-switcher">
+  {% assign current_page = page.url %}
+  {% if page.lang == 'en' or current_page contains '/en/' %}
+    {% assign de_url = current_page | remove: '/en' %}
+    {% if de_url == '/' or de_url == '' %}
+      {% assign de_url = '/' %}
+    {% endif %}
+    <a href="{{ de_url }}" title="Deutsch">
+      <img src="/images/flag-de.svg" alt="DE" class="flag-icon">
+    </a>
+    <span class="current-lang">
+      <img src="/images/flag-en.svg" alt="EN" class="flag-icon">
+    </span>
+  {% else %}
+    {% if current_page == '/' %}
+      {% assign en_url = '/en/' %}
+    {% else %}
+      {% assign en_url = '/en' | append: current_page %}
+    {% endif %}
+    <span class="current-lang">
+      <img src="/images/flag-de.svg" alt="DE" class="flag-icon">
+    </span>
+    <a href="{{ en_url }}" title="English">
+      <img src="/images/flag-en.svg" alt="EN" class="flag-icon">
+    </a>
+  {% endif %}
+</div>

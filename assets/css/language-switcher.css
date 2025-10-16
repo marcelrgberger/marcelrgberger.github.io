@@ -1,0 +1,61 @@
+header {
+  position: relative;
+}
+
+.language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  z-index: 1000;
+}
+
+.language-switcher a,
+.language-switcher .current-lang {
+  display: inline-block;
+  transition: opacity 0.3s ease;
+}
+
+.language-switcher a:hover {
+  opacity: 0.7;
+}
+
+.language-switcher .current-lang {
+  opacity: 1;
+  cursor: default;
+}
+
+.flag-icon {
+  width: 32px;
+  height: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+  display: block;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .language-switcher {
+    top: 10px;
+    right: 10px;
+  }
+  
+  .flag-icon {
+    width: 28px;
+    height: 21px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .language-switcher {
+    top: 5px;
+    right: 5px;
+  }
+  
+  .flag-icon {
+    width: 24px;
+    height: 18px;
+  }
+}

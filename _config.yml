@@ -7,3 +7,6 @@ languages: ["de", "en"]
 default_lang: "de"
 exclude_from_localization: ["assets", "images"]
 
+# English metadata
+description_en: "Apps, Platforms & Processes"
+
